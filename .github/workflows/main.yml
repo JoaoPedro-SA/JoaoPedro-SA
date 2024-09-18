@@ -18,7 +18,7 @@ on:
 jobs:
   generate:
     permissions: 
-      contents: write
+      contents: black
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
@@ -30,6 +30,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
            # dist/github-contribution-grid-snake.svg 
           outputs: |
+            dist/github-contribution-grid-snake.svg 
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
