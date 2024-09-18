@@ -25,13 +25,10 @@ Sou um estudante de 18 anos cursando Análise e Desenvolvimento de Sistemas (ADS
 </div>
 <h3> Meus contatos </h3>
 <div>
-  <a href="AQUI VAI O LINK DO INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:devbatistacontato@gmail.com">
+  <a href="mailto:antunesjoaopedro3@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="AQUI VAI O LINK DO LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-antunes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
