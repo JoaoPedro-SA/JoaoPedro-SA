@@ -2,6 +2,7 @@
 Sou um estudante de 18 anos cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta. Gosto de programar e realizar projetos no meu dia a dia.”
 
 <!-- -->
+<!-- -->
 
 
 
