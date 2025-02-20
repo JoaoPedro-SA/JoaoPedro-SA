@@ -1,5 +1,5 @@
 ##  👋 Ola! Bem vindo ao Meu GitHub.
-Sou um estudante de 18 anos cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta. Gosto de programar e realizar projetos no meu dia a dia.”
+Sou um estudante de 19 anos cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta. Gosto de programar e realizar projetos no meu dia a dia.”
 
 <!-- -->
 <!-- -->
@@ -9,7 +9,7 @@ Sou um estudante de 18 anos cursando Análise e Desenvolvimento de Sistemas (ADS
 <div align="center">
   <a href="https://github.com/JoaoPedro-SA">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=6&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </div>
 
