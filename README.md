@@ -1,6 +1,5 @@
 ##  👋 Ola! Bem vindo ao Meu GitHub.
-Sou um estudante de 19 anos cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta. Gosto de programar e realizar projetos no meu dia a dia.”
-
+I am a 19-year-old student studying Systems Analysis and Development (ADS) at Impacta College. I enjoy programming and carrying out projects in my day-to-day life.”
 <!-- -->
 <!-- -->
 
