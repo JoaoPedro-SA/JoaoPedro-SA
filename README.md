@@ -1,4 +1,4 @@
-##  👋 Ola! Bem vindo ao Meu GitHub.
+##  👋 Hello! Welcome to My GitHub.
 I am a 19-year-old student studying Systems Analysis and Development (ADS) at Impacta College. I enjoy programming and carrying out projects in my day-to-day life.”
 <!-- -->
 <!-- -->
