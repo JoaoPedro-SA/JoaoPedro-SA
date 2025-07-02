@@ -1,10 +1,6 @@
-##  👋 Hello! Welcome to My GitHub.
+##  👋 Welcome to My GitHub.
 I am a 19-year-old student studying Systems Analysis and Development (ADS) at Impacta College. I enjoy programming and carrying out projects in my day-to-day life.”
 <!-- -->
-<!-- -->
-
-
-
 <div align="center">
   <a href="https://github.com/JoaoPedro-SA">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=dracula&include_all_commits=true"/>
@@ -23,8 +19,6 @@ I am a 19-year-old student studying Systems Analysis and Development (ADS) at Im
 
 ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake.svg)
 
-
-
 <div style="display: inline_block"><br>
   <h3> My hard skills </h3>
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -34,10 +28,8 @@ I am a 19-year-old student studying Systems Analysis and Development (ADS) at Im
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Dev-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Dev-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />         
-          
 </div>
-
-  
+ 
 ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
