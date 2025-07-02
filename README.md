@@ -12,7 +12,17 @@ I am a 19-year-old student studying Systems Analysis and Development (ADS) at Im
   </a>
 </div>
 
-![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake-dark.svg)
+<div>
+  <br>
+  <a href="mailto:antunesjoaopedro3@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-antunes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div style="display: inline_block"><br>
@@ -26,16 +36,9 @@ I am a 19-year-old student studying Systems Analysis and Development (ADS) at Im
   <img align="center" alt="Dev-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />         
           
 </div>
-<h3> my contacts </h3>
-<div>
-  <a href="mailto:antunesjoaopedro3@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-antunes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
   
-  ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
