@@ -3,10 +3,10 @@ I am a 19-year-old student studying Systems Analysis and Development (ADS) at Im
 <!-- -->
 <div align="center">
   <a href="https://github.com/JoaoPedro-SA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=white&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=5&theme=white"/>
-   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=5&theme=dracula"/> -->
+ <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=white&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=5&theme=white"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=5&theme=dracula"/>
   </a>
 </div>
 
