@@ -1,55 +1,62 @@
-# 👋 Welcome to My GitHub
+# Olá, bem-vindo(a) ao meu GitHub! 👋
 
-Hello! My name is **João Pedro Silva Antunes**, I’m 19 years old and currently a **Systems Analysis and Development student** at Impacta College (4th semester).  
-I also hold a **Technical degree in IT (ETEC Vila Formosa)** and I am currently working as a **Java Development Intern at IB Software**.  
+Meu nome é **João Pedro Silva Antunes** e sou um desenvolvedor apaixonado por **backend**, resolução de problemas e novas tecnologias. Atualmente, estou cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta, sou **técnico em TI** e atuo como **estagiário em desenvolvimento Java** na IB Software.
 
-💡 I’m passionate about **backend development** and problem-solving. Most of my projects focus on **Java, APIs, databases**, and **automation**, but I also enjoy working with **front-end** and **mobile (Kotlin)**.  
-
-I’m always learning new technologies and contributing to **open-source communities**, such as the **Krypto Hashers Community**.  
+Meus projetos e estudos são focados em **Java, APIs, bancos de dados e automação**, mas também tenho interesse e experiência em **front-end** e **desenvolvimento mobile com Kotlin**. Além de me aprofundar em novas tecnologias, busco sempre contribuir para **comunidades de código aberto**, como a **Krypto Hashers Community**.
 
 ---
 
-## 🚀 Professional Experience
-- **Java Development Intern – IB Software (Sep/2024 – Aug/2025)**
-  - Provided **technical support** for logistics applications.
-  - Performed **maintenance and improvements** on legacy systems (**Java, JSF, XHTML, PrimeFaces, SQL**).
-  - Developed **new features** and fixed bugs.
-  - Worked with **SQL queries and data manipulation** in production systems.
+## 🚀 Experiência Profissional
+
+**Estagiário de Desenvolvimento Java – IB Software** (Set/2024 – Atualmente)
+
+* **Manutenção de Sistemas Legados:** Realização de manutenção e melhorias em aplicações de logística utilizando **Java, JSF, XHTML, PrimeFaces e SQL**.
+* **Desenvolvimento de Novas Funcionalidades:** Criação de novas features, correção de bugs e suporte técnico.
+* **Manipulação de Dados:** Execução de consultas SQL e manipulação de dados em ambientes de produção.
 
 ---
 
-## 🛠️ Technical Skills
-**Languages:** Java, Python, JavaScript, TypeScript, Kotlin  
-**Frameworks & Libraries:** JSF, PrimeFaces, Flask, Bootstrap, React  
-**Databases:** SQL, MySQL, PostgreSQL  
-**Tools & Platforms:** Git, Docker, AWS, Swagger  
-**Other Technologies:** REST APIs, MVC, TDD, JSON, XML, HTML, CSS, XHTML  
+## 🛠️ Habilidades Técnicas
+
+**Linguagens:** Java, Python, JavaScript, TypeScript, Kotlin
+
+**Frameworks & Bibliotecas:** Spring Boot, JSF, PrimeFaces, Flask, Bootstrap, React
+
+**Bancos de Dados:** SQL, MySQL, PostgreSQL
+
+**Ferramentas:** Git, Docker, AWS, Swagger
+
+**Outras:** REST APIs, MVC, TDD, JSON, XML, HTML, CSS, XHTML
 
 ---
 
-## 🎓 Education
-- 🎓 **Systems Analysis and Development (ADS)** – Faculdade Impacta (2024 – 2026)  
-- 🎓 **IT Technician** – ETEC Vila Formosa (2020 – 2023)  
+## 🎓 Formação Acadêmica
+
+* **Análise e Desenvolvimento de Sistemas (ADS)** – Faculdade Impacta (2024 – 2026)
+* **Técnico em Informática** – ETEC Vila Formosa (2020 – 2023)
 
 ---
 
-## 📚 Extra Courses
-- **Spring Boot & Cloud Architecture – Cognizant** (55h)  
-- **Java with Spring Boot – Claro** (75h)  
-- **Java Development with AI** (60h)  
-- **Microsoft Copilot AI** (29h)  
-- **Python AI Backend Development** (67h)  
+## 📚 Cursos e Certificações
+
+* **Spring Boot & Cloud Architecture** – Cognizant (55h)
+* **Java com Spring Boot** – Claro (75h)
+* **Desenvolvimento Java com IA** (60h)
+* **Microsoft Copilot AI** (29h)
+* **Python AI Backend Development** (67h)
 
 ---
 
-## 🌍 Languages
-- **Portuguese:** Native  
-- **English:** Basic (Technical reading)  
-- **Spanish:** Basic (Technical reading)  
+## 🌍 Idiomas
+
+* **Português:** Nativo
+* **Inglês:** Básico (leitura técnica)
+* **Espanhol:** Básico (leitura técnica)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
+
 <div align="center">
   <a href="https://github.com/JoaoPedro-SA">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=dracula&include_all_commits=true"/>
@@ -59,7 +66,8 @@ I’m always learning new technologies and contributing to **open-source communi
 
 ---
 
-## 🧰 Tech Stack (Visual)
+## 🧰 Minha Stack de Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -75,7 +83,8 @@ I’m always learning new technologies and contributing to **open-source communi
 
 ---
 
-## 📫 Connect with Me
+## 📫 Conecte-se comigo
+
 <div>
   <a href="mailto:antunesjoaopedro3@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
