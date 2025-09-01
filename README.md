@@ -16,8 +16,8 @@
 <table>
   <tr>
     <div style="display: inline_block">
-      <img height="210em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"/>
-      <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=highcontrast&layout=donut"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=highcontrast&layout=donut"/>
     <div>
   </tr>
 </table>
