@@ -44,7 +44,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
