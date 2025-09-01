@@ -1,12 +1,18 @@
-##  👋 Welcome to My GitHub.
-I am a 19-year-old student studying Systems Analysis and Development (ADS) at Impacta College. I enjoy programming and carrying out projects in my day-to-day life.”
+
+# 👋Ola! Bem vindo ao Meu GitHub
+
 <!-- -->
 <div align="center">
   <a href="https://github.com/JoaoPedro-SA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=white&include_all_commits=true"/>
+ <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=white&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=5&theme=white"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=8&theme=dracula"/> -->
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
+   <!-- <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide_progress=true&langs_count=10&theme=radical"/> -->
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS&langs_count=5&locale=pt-br&theme=radical"/>
+
+
   </a>
 </div>
 
