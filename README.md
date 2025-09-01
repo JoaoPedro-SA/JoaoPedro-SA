@@ -16,14 +16,16 @@
 <table>
   <tr>
     <td>
-      <img height="250em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
+      <img height="250em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"/>
     </td>
     <td>
-      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical&layout=donut"/>
+      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=highcontrast&layout=donut"/>
     </td>
   </tr>
 </table>
 </div>
+
+![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -45,7 +47,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake.svg) -->
 
 
