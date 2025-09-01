@@ -16,7 +16,7 @@
 <table>
   <tr>
     <div style="display: inline_block">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br&rank_icon=github"/>
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=highcontrast&layout=donut"/>
     <div>
   </tr>
@@ -44,6 +44,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-antunes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoPedro-SA)](https://wakatime.com/@JoaoPedro-SA)
 
 <!-- ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake.svg) -->
 
