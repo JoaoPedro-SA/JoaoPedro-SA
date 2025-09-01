@@ -13,10 +13,16 @@
     <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical"/> -->
   </a>
 
-  <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical&layout=donut"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
+    </td>
+    <td>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical&layout=donut"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <div style="display: inline_block"><br>
