@@ -16,10 +16,10 @@
 <table>
   <tr>
     <td>
-      <img height="220em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
+      <img height="250em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
     </td>
     <td>
-      <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical&layout=donut"/>
+      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical&layout=donut"/>
     </td>
   </tr>
 </table>
