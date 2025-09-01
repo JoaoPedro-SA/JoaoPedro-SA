@@ -16,12 +16,15 @@
 <table>
   <tr>
     <div style="display: inline_block">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br&rank_icon=github"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=highcontrast&layout=donut"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&rank_icon=github"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=dracula&layout=donut"/>
     <div>
   </tr>
 </table>
 </div>
+
+      
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake-dark.svg)
 
