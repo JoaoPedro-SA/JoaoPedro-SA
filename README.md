@@ -14,8 +14,8 @@
   </a>
 
   <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical&layout=donut"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=radical&layout=donut"/>
 </div>
 </div>
 
