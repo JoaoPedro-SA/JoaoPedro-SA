@@ -23,6 +23,8 @@
 </table>
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=45%2C7B7B7B%2C00000000" alt="GitHub Streak" /></a>
+
 ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div style="display: inline_block"><br>
@@ -45,9 +47,17 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoPedro-SA)](https://wakatime.com/@JoaoPedro-SA)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake.svg) -->
+
+![Snake animation](https://github.com/JoaoPedro-SA/JoaoPedro-SA/blob/output/github-contribution-grid-snake.svg) 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPedro-SA/JoaoPedro-SA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedro-SA/JoaoPedro-SA/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoPedro-SA/JoaoPedro-SA/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
