@@ -58,13 +58,13 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** com formação t�
 
 ---
 
-## 📊 Estatísticas do GitHub & 🏆 Conquistas
+## 🏆 Conquistas
 
-<div align="center">
+<!-- <div align="center"> ## 📊 Estatísticas do GitHub & 🏆 Conquistas
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS,&langs_count=10&locale=pt-br&theme=tokyonight&layout=donut"/>
 </div>
-<div align="center">
+<div align="center"> -->
     
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
