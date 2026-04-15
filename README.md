@@ -35,7 +35,6 @@ Possuo experiência em projetos práticos, colaboração em open-source e conhec
 </div>
 
 
-
 ### 📊 Estatísticas do GitHub
 ---
 <div align="center">
@@ -53,12 +52,18 @@ Possuo experiência em projetos práticos, colaboração em open-source e conhec
 
 </div>
 
+
 <!--
 ### 📊 Atividade
-
+<img src="https://www.gitflex.in/api/view/a7f4d474-70c4-4753-9e16-53827b85e202" alt="GitFlex Widget" />
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=pt_BR" />
+
+
+<div align="center">
+  <img height="180em" src="https://gitmystat.vercel.app/user?theme=dark&username=JoaoPedro-SA"/>
+</div>
 
 </div>
 -->
@@ -73,8 +78,10 @@ Possuo experiência em projetos práticos, colaboração em open-source e conhec
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrosilvaantunes/)
 
 </div>
-<!--
-### 🏆 Conquistas
+
+<!-- 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div> -->
