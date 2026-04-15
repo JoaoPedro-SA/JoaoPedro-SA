@@ -3,7 +3,7 @@
 
 - 🤖 João Pedro Silva Antunes
 - 📅 20 anos
-- 💼 Desenvolvedor **Full Stack Júnior** (foco em Back-end)
+- 💼 Desenvolvedor **Full Stack Junior** (foco em Back-end)
 - ⏳ 2 anos de experiencia profissional em TI.
 - ⏳ 5 anos de experiencia pratica e contato com a programação.
 - 🌐 Experiência com desenvolvimento de **APIs**, automação e sistemas web
