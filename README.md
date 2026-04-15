@@ -84,4 +84,10 @@ Possuo experiência em projetos práticos, colaboração em open-source e conhec
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://komarev.com/ghpvc/?username=JoaoPedro-SA&color=blue"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,react,docker,aws,mysql,mongodb,git"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoPedro-SA&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedro-SA&theme=tokyonight"/>
+
 </div> -->
