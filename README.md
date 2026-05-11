@@ -1,21 +1,22 @@
-## 💻 Sobre mim
+## 💻 About Me
 ---
+* 🤖 João Pedro Silva Antunes
+* 📅 20 years old
+* 💼 Junior Full Stack Developer (Back-end focused)
+* ⏳ 2 years of professional experience in IT
+* ⏳ 5 years of hands-on programming experience
+* 🌐 Experience with API development, automation, and web systems
+* 🧠 Knowledge of React, SQL, and NoSQL databases
+* 📍 São Paulo - SP, Brazil
+* 🎓 Systems Analysis and Development (Impacta) | IT Technician (ETEC)
+* 🎮 Gamer
 
-- 🤖 João Pedro Silva Antunes
-- 📅 20 anos
-- 💼 Desenvolvedor **Full Stack Junior** (foco em Back-end)
-- ⏳ 2 anos de experiencia profissional em TI.
-- ⏳ 5 anos de experiencia pratica e contato com a programação.
-- 🌐 Experiência com desenvolvimento de **APIs**, automação e sistemas web
-- 🧠 Conhecimentos em **React**, SQL e NoSQL
-- 📍 São Paulo - SP - Zona Leste
-- 🎓 ADS (Impacta) | Técnico em TI (ETEC)
-- 🎮 Gamer
+Systems Analysis and Development student with a technical background in Information Technology.
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com formação técnica em Informática.  
-Foco em desenvolvimento **back-end** com **Java**, e **Python**, atuando na construção e manutenção de sistemas web.  
+Focused on back-end development using Java and Python, working on the development and maintenance of web systems and APIs.
 
-Possuo experiência em projetos práticos, colaboração em open-source e conhecimentos complementares em **front-end** e **mobile**.
+Experienced in practical projects, open-source collaboration, automation, and complementary front-end and mobile development.
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
@@ -37,12 +38,32 @@ Possuo experiência em projetos práticos, colaboração em open-source e conhec
 
 ### 📊 Estatísticas do GitHub
 ---
-<div align="center">
+<!-- <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"/>
 
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&hide=html,css"/>
+</div> -->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=pt_BR" />
+
+<br>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+<!--
+<div align="center">
+  <img height="180em" src="https://gitmystat.vercel.app/user?theme=dark&username=JoaoPedro-SA"/>
 </div>
 
+
+--> 
+
+</div>
 
 ### 🐍 Contribuições
 ---
