@@ -38,8 +38,9 @@ Possuo experiência em projetos práticos, colaboração em open-source e conhec
 ### 📊 Estatísticas do GitHub
 ---
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&hide=HTML,CSS&langs_count=10&locale=pt-br&theme=tokyonight&layout=donut"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"/>
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&hide=html,css"/>
 </div>
 
 
