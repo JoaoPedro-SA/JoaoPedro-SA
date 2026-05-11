@@ -20,7 +20,7 @@ Experienced in practical projects, open-source collaboration, automation, and co
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-### 🛠 Tecnologias e Ferramentas 
+### 🛠 Tech Stack & Tools
 ---
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -36,7 +36,7 @@ Experienced in practical projects, open-source collaboration, automation, and co
 </div>
 
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 ---
 <!-- <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"/>
@@ -65,7 +65,7 @@ Experienced in practical projects, open-source collaboration, automation, and co
 
 </div>
 
-### 🐍 Contribuições
+### 🐍 Contribution Activity
 ---
 
 <div align="center">
@@ -90,7 +90,7 @@ Experienced in practical projects, open-source collaboration, automation, and co
 </div>
 -->
 
-### 📫 Contato
+### 📫 Contact Information
 
 ---
 
