@@ -45,9 +45,10 @@ Experienced in practical projects, open-source collaboration, automation, and co
 </div> -->
 
 <div align="center">
+<!--
+<img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=pt_BR" /> -->
 
-<img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=pt_BR" />
-
+<img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=en_US" />
 <br>
 
 ---
