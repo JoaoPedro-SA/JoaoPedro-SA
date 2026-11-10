@@ -1,73 +1,108 @@
+# 👨‍💻 João Pedro Silva Antunes
+
+### Back-end Developer | Software Engineering | AI Engineering
+
+---
+
 ## 💻 About Me
+
+- 👨‍💻 Back-end Developer focused on software development.
+- 🎓 Degree in Systems Analysis and Development — Faculdade Impacta.
+- 🎓 Postgraduate student in AI Engineering — Faculdade Impacta.
+- 💼 Experience in software development, technical support, and application maintenance.
+- 🌐 Experience developing REST APIs, web applications, and automation solutions.
+- 🧠 Knowledge of relational and NoSQL databases.
+- 🤝 Open-source contributor at Krypto Hashers Community.
+- 📍 São Paulo, SP — Brazil.
+
+I'm a software developer with a background in Systems Analysis and Development and a technical degree in Information Technology.
+
+My main interests are back-end development, software architecture, database engineering, and artificial intelligence.
+
+I have practical experience maintaining and developing web systems, working with databases, troubleshooting application issues, and building software solutions.
+
+Currently, I'm expanding my knowledge in back-end technologies, database engineering, API integration, and AI Engineering.
+
 ---
-* 🤖 João Pedro Silva Antunes
-* 📅 21 years old
-* 💼 Junior Full Stack Developer (Back-end focused)
-* ⏳ 2 years of professional experience in IT
-* ⏳ 5 years of hands-on programming experience
-* 🌐 Experience with API development, automation, and web systems
-* 🧠 Knowledge of React, SQL, and NoSQL databases
-* 📍 São Paulo - SP, Brazil
-* 🎓 Systems Analysis and Development (Impacta) | IT Technician (ETEC)
-* 🎮 Gamer
 
-Systems Analysis and Development student with a technical background in Information Technology.
+## 🛠 Tech Stack & Tools
 
-Focused on back-end development using Java and Python, working on the development and maintenance of web systems and APIs.
-
-Experienced in practical projects, open-source collaboration, automation, and complementary front-end and mobile development.
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-
-### 🛠 Tech Stack & Tools
----
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+### Programming Languages
+<div align="left">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+### Back-end Development
+<div align="left">
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="REST API" src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</div>
+
+### Front-end Development
+<div align="left">
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-005A9C?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+### Databases
+<div align="left">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+### DevOps & Tools
+<div align="left">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
-
-### 📊 GitHub Statistics
 ---
-<!-- <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-SA&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"/>
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-SA&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&hide=html,css"/>
-</div> -->
+## 🎓 Education
+
+- **Postgraduate Degree in AI Engineering** — Faculdade Impacta Digital (2026–2027).
+- **Technology Degree in Systems Analysis and Development** — Faculdade Impacta (2024–2026).
+- **Technical Degree in Information Technology** — ETEC Vila Formosa (2020–2023).
+
+---
+
+## 🚀 Featured Projects
+
+### SP em Alerta
+Full-stack application focused on sharing and reporting dangerous situations in São Paulo.
+
+**Technologies:** React Native, Python, Flask, PostgreSQL and OTP Authentication.
+
+- Web: https://sp-em-alerta-1.onrender.com
+- Android: https://sp-em-alerta-27yd.onrender.com
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-<!--
-<img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=pt_BR" /> -->
 
-<img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=en_US" />
-<br>
+<img height="180em" src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=en_US"/>
 
----
+<br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-<!--
-<div align="center">
-  <img height="180em" src="https://gitmystat.vercel.app/user?theme=dark&username=JoaoPedro-SA"/>
-</div>
-
-
---> 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-### 🐍 Contribution Activity
 ---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -75,42 +110,16 @@ Experienced in practical projects, open-source collaboration, automation, and co
 
 </div>
 
-
-<!--
-### 📊 Atividade
-<img src="https://www.gitflex.in/api/view/a7f4d474-70c4-4753-9e16-53827b85e202" alt="GitFlex Widget" />
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoaoPedro-SA&theme=highcontrast&locale=pt_BR" />
-
-
-<div align="center">
-  <img height="180em" src="https://gitmystat.vercel.app/user?theme=dark&username=JoaoPedro-SA"/>
-</div>
-
-</div>
--->
-
-### 📫 Contact Information
-
 ---
+
+## 📫 Contact Information
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antunesjoaopedro3@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrosilvaantunes/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPedro-SA)
+
 </div>
-
-<!-- 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoPedro-SA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://komarev.com/ghpvc/?username=JoaoPedro-SA&color=blue"/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,react,docker,aws,mysql,mongodb,git"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoPedro-SA&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedro-SA&theme=tokyonight"/>
-
-</div> -->
