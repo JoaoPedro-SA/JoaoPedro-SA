@@ -1,7 +1,7 @@
 ## 💻 About Me
 ---
 * 🤖 João Pedro Silva Antunes
-* 📅 20 years old
+* 📅 21 years old
 * 💼 Junior Full Stack Developer (Back-end focused)
 * ⏳ 2 years of professional experience in IT
 * ⏳ 5 years of hands-on programming experience
